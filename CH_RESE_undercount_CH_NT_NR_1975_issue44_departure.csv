@@ -1,0 +1,4 @@
+﻿sep=;
+"res_entry_id";"pers_id";"last_name";"first_name";"birth_date";"res_entry_start";"res_entry_end";"start_date";"end_date";"political_function";"parliament_id"
+"CH_Tschaeppaet_Reynold_1917__1";"CH_Tschaeppaet_Reynold_1917";"Tschaeppaet";"Reynold";"03sep1917";"02dec1963";"03jul1979";1963-12-02;1979-07-03;"NT_LE-LH_T3_NA_01";"CH_NT-NR_1963;CH_NT-NR_1967;CH_NT-NR_1971;CH_NT-NR_1975"
+"CH_Waldner_Fritz_1911__1";"CH_Waldner_Fritz_1911";"Waldner-Mesmer";"Fritz";"06oct1911";"05dec1955";"01sep1979";1955-12-05;1979-09-01;"NT_LE-LH_T3_NA_01";"CH_NT-NR_1955;CH_NT-NR_1959;CH_NT-NR_1963;CH_NT-NR_1967;CH_NT-NR_1971;CH_NT-NR_1975"
