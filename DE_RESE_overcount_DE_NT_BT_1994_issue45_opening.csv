@@ -1,0 +1,6 @@
+﻿sep=;
+"res_entry_id";"pers_id";"last_name";"first_name";"birth_date";"res_entry_start";"res_entry_end";"start_date";"end_date";"political_function";"parliament_id"
+"DE_Nitsch_Martin_1934__1";"DE_Nitsch_Martin_1934";"Nitsch";"Martin-Egbert";"08jul1934";"04jun1996";"25oct1998";1996-06-04;1998-10-25;"NT_LE_T3_NA_01";"DE_NT-BT_1994"
+"DE_Rupprecht_Marlene_1947__6";"DE_Rupprecht_Marlene_1947";"Rupprecht";"Marlene-Dorothe-Henriette";"20dec1947";"25sep1996";"25oct1998";1996-09-25;1998-10-25;"NT_LE_T3_NA_01";"DE_NT-BT_1994"
+"DE_Seib_Marion_1954__5";"DE_Seib_Marion_1954";"Seib";"Marion";"31mar1954";"27nov1996";"25oct1998";1996-11-27;1998-10-25;"NT_LE_T3_NA_01";"DE_NT-BT_1994"
+"DE_Wittmann_Fritz_1933__1";"DE_Wittmann_Fritz_1933";"Wittmann";"Friedrich-Wilhelm";"21mar1933";"22aug1996";"25oct1998";1996-08-22;1998-10-25;"NT_LE_T3_NA_01";"DE_NT-BT_1994"
