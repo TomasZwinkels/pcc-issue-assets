@@ -1,0 +1,6 @@
+﻿sep=;
+"res_entry_id";"pers_id";"last_name";"first_name";"birth_date";"res_entry_start";"res_entry_end";"start_date";"end_date";"political_function";"parliament_id"
+"CA_Gilbert_John_1921__01";"CA_Gilbert_John_1921";"Gilbert";"John";"21sep1921";"08nov1965";"27apr1978";1965-11-08;1978-04-27;"NT_LE-LH_T3_NA_01";"CA_NT-HC_1965;CA_NT-HC_1968;CA_NT-HC_1972;CA_NT-HC_1974"
+"CA_Poulin_Fabian_1931__01";"CA_Poulin_Fabian_1931";"Poulin";"Fabian-Hugh";"09feb1931";"30oct1972";"27apr1978";1972-10-30;1978-04-27;"NT_LE-LH_T3_NA_01";"CA_NT-HC_1972;CA_NT-HC_1974"
+"CA_Sharp_Mitchell_1911__01";"CA_Sharp_Mitchell_1911";"Sharp";"Mitchell-William";"11may1911";"08apr1963";"01may1978";1963-04-08;1978-05-01;"NT_LE-LH_T3_NA_01";"CA_NT-HC_1963;CA_NT-HC_1965;CA_NT-HC_1968;CA_NT-HC_1972;CA_NT-HC_1974"
+"CA_Richardson_James_1922__01";"CA_Richardson_James_1922";"Richardson";"James-Armstrong";"28mar1922";"25jun1968";"26jun1978";1968-06-25;1978-06-26;"NT_LE-LH_T3_NA_01";"CA_NT-HC_1968;CA_NT-HC_1972;CA_NT-HC_1974"
